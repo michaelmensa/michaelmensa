@@ -24,3 +24,6 @@
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/dabacd82-bb12-4fe7-a723-f1d3f7fa1c2c" width="40" height="40">
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/132571ff-2164-4d69-9500-d0fd4ebdb868" width="40" height="40">
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/7eb3db4e-00de-4066-b044-b56b886d290c" width="40" height="40">
+
+### STATS
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmensa)](https://github.com/anuraghazra/github-readme-stats)
