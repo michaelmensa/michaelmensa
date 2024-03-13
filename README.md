@@ -28,4 +28,4 @@
 ### STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmensa&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmensa&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelmensa)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelmensa&theme=transparent)](https://git.io/streak-stats)
