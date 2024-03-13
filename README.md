@@ -15,8 +15,8 @@
 ### Languages
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/3f8b3e93-50ea-43d3-84e5-ace16efd5b51" width="20" height="20">
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/f724aaf8-d5b3-4a1b-9c87-d4af7e5cff0e" width="20" height="20">
-[Javascript]
-[HTML]
-[CSS]
-[NodeJS]
-[React]
+<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/aba096f0-81f4-4046-aa6a-51ddaaa69384" width="20" height="20">
+<img width="20" height="20">
+<img width="20" height="20">
+<img width="20" height="20">
+<img width="20" height="20">
