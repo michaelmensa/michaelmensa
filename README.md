@@ -13,9 +13,8 @@
 [<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/7a573f51-7c6c-4f88-9fbc-d276f81ea1dc" width="20" height="20">](github.com/michaelmensa)
 
 ### Languages
-[<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/3f8b3e93-50ea-43d3-84e5-ace16efd5b51" width="20" height="20">]
-
-[Python]
+<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/3f8b3e93-50ea-43d3-84e5-ace16efd5b51" width="20" height="20">
+<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/f724aaf8-d5b3-4a1b-9c87-d4af7e5cff0e" width="20" height="20">
 [Javascript]
 [HTML]
 [CSS]
