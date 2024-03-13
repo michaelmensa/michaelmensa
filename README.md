@@ -11,3 +11,12 @@
 [<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/4fd26412-8a1e-4eea-992a-cfc688d5de6b" width="20" height="20">](www.linkedin.com/in/michael-mensah-09245854)
 [<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/1c83960c-b04a-470e-8ca2-3404f1e8a5fd" width="20" height="20">](https://avatarmensa.hashnode.dev/)
 [<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/7a573f51-7c6c-4f88-9fbc-d276f81ea1dc" width="20" height="20">](github.com/michaelmensa)
+
+### Languages
+[C]
+[Python]
+[Javascript]
+[HTML]
+[CSS]
+[NodeJS]
+[React]
