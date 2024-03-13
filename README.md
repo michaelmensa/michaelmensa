@@ -21,4 +21,4 @@
 
 ### Web Frameworks
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/3aaee18d-6cb8-4974-93a8-45c8d9365761" width="20" height="20">
-<img width="20" height="20">
+<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/3e27d007-fd9d-4df9-bffa-34fc57b67b1e" width="20" height="20">
