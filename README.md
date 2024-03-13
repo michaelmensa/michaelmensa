@@ -1,6 +1,6 @@
-### Hi there 👋 I am Michael Tetteh Mensah
+## Hi there 👋 I am Michael Tetteh Mensah
 
-# Full Stack Software Engineer | Optometrist
+### Full Stack Software Engineer | Optometrist
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Javascript, NodeJS, React
