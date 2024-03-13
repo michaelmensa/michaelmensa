@@ -16,7 +16,7 @@
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/3f8b3e93-50ea-43d3-84e5-ace16efd5b51" width="20" height="20">
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/f724aaf8-d5b3-4a1b-9c87-d4af7e5cff0e" width="20" height="20">
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/aba096f0-81f4-4046-aa6a-51ddaaa69384" width="20" height="20">
-<img width="20" height="20">
-<img width="20" height="20">
+<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/5bb1e41f-cb24-4c12-ba62-a7e65f617360" width="20" height="20">
+<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/d85e0c1c-ceed-4644-bdae-a50fd399a05e" width="20" height="20">
 <img width="20" height="20">
 <img width="20" height="20">
