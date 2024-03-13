@@ -26,4 +26,5 @@
 <img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/7eb3db4e-00de-4066-b044-b56b886d290c" width="40" height="40">
 
 ### STATS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmensa)](https://github.com/anuraghazra/github-readme-stats)
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmensa&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
