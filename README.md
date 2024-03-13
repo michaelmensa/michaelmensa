@@ -7,7 +7,7 @@
 - 📧 How to reach me: [📧](michaelmensa@live.com)
 
 ### Socials
-- [![image](https://github.com/michaelmensa/michaelmensa/assets/113622103/e36918a7-b8d0-470e-a6ea-2e479183611e)
+[![image](https://github.com/michaelmensa/michaelmensa/assets/113622103/e36918a7-b8d0-470e-a6ea-2e479183611e)
 ](https://twitter.com/drkofitetteh)
-- [LinkedIn](www.linkedin.com/in/michael-mensah-09245854)
-- [hashnode](https://avatarmensa.hashnode.dev/)
+[LinkedIn](www.linkedin.com/in/michael-mensah-09245854)
+[hashnode](https://avatarmensa.hashnode.dev/)
