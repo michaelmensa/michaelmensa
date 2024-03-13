@@ -13,7 +13,8 @@
 [<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/7a573f51-7c6c-4f88-9fbc-d276f81ea1dc" width="20" height="20">](github.com/michaelmensa)
 
 ### Languages
-[C]
+[<img src="https://github.com/michaelmensa/michaelmensa/assets/113622103/3f8b3e93-50ea-43d3-84e5-ace16efd5b51" width="20" height="20">]
+
 [Python]
 [Javascript]
 [HTML]
